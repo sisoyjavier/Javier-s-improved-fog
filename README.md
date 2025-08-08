@@ -1,3 +1,4 @@
+````markdown
 # Javier's Improved Fog
 
 **Author:** [@javierbendezuv](https://www.curseforge.com/members/javierbendezuv/projects)  
@@ -90,4 +91,5 @@ Calculates the maximum of horizontal and vertical distances for more uniform fog
 
 ---
 
+```
 ```
