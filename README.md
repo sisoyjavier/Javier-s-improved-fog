@@ -87,6 +87,3 @@ Calculates the maximum of horizontal and vertical distances for more uniform fog
 * License: Free to use and modify with credit to the author.
 
 ---
-
-```
-```
