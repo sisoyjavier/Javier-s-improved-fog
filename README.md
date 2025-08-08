@@ -1,8 +1,3 @@
-Perfecto, aquí tienes el **README.md** listo para GitHub, con todo integrado y el enlace a la imagen de ejemplo, además de tus enlaces oficiales para que quede más profesional:
-
----
-
-````markdown
 # Javier's Improved Fog
 
 **Author:** [@javierbendezuv](https://www.curseforge.com/members/javierbendezuv/projects)  
