@@ -1,4 +1,3 @@
-````markdown
 # Javier's Improved Fog
 
 **Author:** [@javierbendezuv](https://www.curseforge.com/members/javierbendezuv/projects)  
@@ -60,10 +59,8 @@ Combines **environmental fog** (spherical) and **player-centric fog** (cylindric
 Applies the final fog effect to a fragment:
 - Scales `fogValue` for earlier fog appearance.  
 - Uses a **custom progressive curve**:  
-  ```glsl
-  curvedFog = pow(fogValue, 1.1) / (pow(fogValue, 1.1) + pow(1.0 - fogValue, 3));
-````
-
+  ```glsl  curvedFog = pow(fogValue, 1.1) / (pow(fogValue, 1.1) + pow(1.0 - fogValue, 3));
+  
 * **pow(fogValue, 1.1):** Controls how quickly fog starts appearing.
 * **pow(1.0 - fogValue, 3):** Controls how fast it reaches full opacity.
 * Mixes the original color with `fogColor` based on the curve output.
